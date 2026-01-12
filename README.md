@@ -1,5 +1,17 @@
 # 💫 About Me:
-🎓 I’m currently working on<br>I am a 3rd-year Computer Science student at CT University, actively focusing on strengthening my problem-solving skills, building full-stack projects, and improving my technical expertise through hands-on practice.<br><br>👨‍💻 I’m looking to collaborate on<br>Real-world projects, open-source contributions, and development-based initiatives related to MERN Stack, Backend Development, and Machine Learning, where I can apply my skills and learn from practical experience.<br><br>🧠 I’m looking for help with<br>Advanced DSA concepts, system design, scalable backend development, and real-world Machine Learning applications.<br><br>📚 I’m currently learning<br>Advanced Data Structures & Algorithms, Machine Learning concepts, backend optimization, and project-based learning using modern web technologies.<br><br>💬 Ask me about<br><br>Data Structures & Algorithms (700+ problems solved on LeetCode)<br><br>MERN Stack Development (MongoDB, Express.js, React.js, Node.js)<br><br>Python Development<br><br>C++, C, basics of Java<br><br>MySQL, NumPy, Pandas, and Machine Learning fundamentals<br><br>⚡ Fun fact<br>I believe consistency and problem-solving practice are the keys to becoming a strong software engineer, and I enjoy solving challenging coding problems more than anything 🚀
+Hi there, I’m Pourush 👋
+
+I’m a Computer Science Engineering student (CSE ’27) and a Full Stack Developer focused on building scalable web applications and writing clean, efficient code.
+
+💻 Working with MERN Stack (React, Node.js, Express, MongoDB)
+
+🧠 Strong in Data Structures & Algorithms (700+ problems solved)
+
+🌱 Currently learning Advanced Backend, System Design & ML fundamentals
+
+🤝 Open to collaborations, open-source & real-world projects
+
+📫 Reach me at: pourushkashyap06@gmail.com
 
 
 ## 🌐 Socials:
