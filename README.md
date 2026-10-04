@@ -1,17 +1,50 @@
-# 💫 About Me:
-Hi there, I’m Pourush 👋
+## 🤖 About Me
 
-I’m a Computer Science Engineering student (CSE ’27) and a Full Stack Developer focused on building scalable web applications and writing clean, efficient code.
+Hi there, I'm Pourush 👋
 
-💻 Working with MERN Stack (React, Node.js, Express, MongoDB)
+I'm a Computer Science Engineering student (CSE '27) passionate about
+Artificial Intelligence, Machine Learning, Generative AI, and Agentic AI.
 
-🧠 Strong in Data Structures & Algorithms (700+ problems solved)
+I enjoy building intelligent systems that can understand information,
+retrieve relevant knowledge, reason over context, and take actions using tools.
 
-🌱 Currently learning Advanced Backend, System Design & ML fundamentals
+### 🧠 Currently Working With
 
-🤝 Open to collaborations, open-source & real-world projects
+- 🤖 Generative AI & LLM Applications
+- 🧩 Agentic AI & AI Agents
+- 🔗 LangChain & LangGraph
+- 📚 RAG (Retrieval-Augmented Generation)
+- 🧠 Machine Learning & Deep Learning
+- 🐍 Python for AI/ML
+- 🔎 Vector Databases & Semantic Search
+- 🔌 APIs & Tool Calling / MCP
 
-📫 Reach me at: pourushkashyap06@gmail.com
+### 💻 Full-Stack Foundation
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Tailwind CSS
+
+### 🚀 What I Like Building
+
+- AI Assistants
+- RAG-based Applications
+- Multi-Agent Systems
+- AI Automation
+- ML-powered Applications
+- Full-Stack AI Products
+
+### 📈 Problem Solving
+
+- Strong foundation in Data Structures & Algorithms
+- 950+ problems solved across coding platforms
+- Regularly practicing DSA in C++
+
+I'm currently looking for opportunities where I can work on
+AI/ML, Generative AI, and Agentic AI systems and solve real-world problems.
 
 
 ## 🌐 Socials:
